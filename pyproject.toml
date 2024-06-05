@@ -3,10 +3,10 @@ requires = ["setuptools >= 61.1.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "undetected_selenium"
+name = "undetected_webdriver"
 version = "1.2"
 authors = [
-    { name="Izaan Noman", email="pythonlogstest@gmail.com" },
+    { name="Izaan Noman", email="izaan.nyc@gmail.com" },
 ]
 description = "An undetected version of better selenium."
 readme = "README.md"
